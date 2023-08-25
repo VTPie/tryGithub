@@ -4,3 +4,5 @@ update 1
 
 This is new line in local repo
 This is bonus line to demo conflict
+
+This is new line in feat1 branch.
